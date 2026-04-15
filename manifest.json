@@ -1,0 +1,19 @@
+{
+  "name": "Casino Partouche Pornic",
+  "short_name": "Casino Partouche Pornic",
+  "theme_color": "",
+  "background_color": "#000001",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1776259845-favicon.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
